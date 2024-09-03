@@ -17,5 +17,5 @@ function add(numbers: string): number {
   }
   
 // call to the function
-const result = add('1,2,3,4');
-console.log(result); 
+// const result = add('1,2,3,14');
+// console.log(result); 
